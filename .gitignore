@@ -1,0 +1,10 @@
+# Virtual environment
+benv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Django migrations
+*.log
+*.sqlite3
