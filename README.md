@@ -53,7 +53,7 @@ This is a simple event management system built with Django and Django REST Frame
     {
       "name": "Concert",
       "description": "Live music concert",
-      "date": "2024-09-01T20:00:00Z",
+      "date": "2024-09-01",
       "location": "City Stadium"
     }
     ```
