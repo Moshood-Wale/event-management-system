@@ -23,6 +23,7 @@ This is a simple event management system built with Django and Django REST Frame
 1. **Clone the Repository**
 
     git clone https://github.com/Moshood-Wale/event-management-system.git
+    
     cd bookings
 
 2. **Create and Activate a Virtual Environment**
